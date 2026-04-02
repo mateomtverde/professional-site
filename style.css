@@ -100,7 +100,7 @@ section ul {
     margin: auto;
     max-width: 800px;
     background-image: url(images/pexels-tima-miroshnichenko-6474495.jpg);
-    background-size: cover;
+    background-size: fit-content;
     background-position: center;
     box-shadow: #000000 5px 5px 15px;
     transition: box-shadow 0.3s ease, transform 0.3s ease;
