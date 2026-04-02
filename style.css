@@ -95,22 +95,17 @@ section ul {
 }
 .image-box {
     border: #000000 2px solid;
-    border-radius: 20px;
+    border-radius: 80px;
     padding: 8px;
     margin: auto;
     max-width: 800px;
-    background-color: azure;
+    background-image: url(images/pexels-tima-miroshnichenko-6474495.jpg);
     box-shadow: #000000 5px 5px 15px;
     transition: box-shadow 0.3s ease, transform 0.3s ease;
 }
 .image-box:hover {
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.2);
     transform: skew( -2deg, -2deg);
-}
-.image-box img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 80px;
 }
 .animation-items {
     display: flex;
