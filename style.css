@@ -96,21 +96,21 @@ section ul {
     margin: auto;
     font-size: larger;
 }
-.box-01 {
+.home  {
     padding: 16px;
     margin-bottom: 10px;
     border: 2px solid rgb(0, 0, 0);
     background-color: #a6a6ac;
     border-radius: 8px;
 }
-.box-02 {
+.about {
     padding: 16px;
     margin-bottom: 10px;
     border: 2px solid rgb(0, 0, 0);
     background-color: #a6a6ac;
     border-radius: 8px;
 }
-.box-03 {
+.services {
     padding: 16px;
     margin-bottom: 10px;
     border: 2px solid rgb(0, 0, 0);
