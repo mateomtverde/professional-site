@@ -99,6 +99,7 @@ section ul {
     padding: 8px;
     margin: auto;
     max-width: 800px;
+    max-height: 800px;
     background-image: url(images/pexels-tima-miroshnichenko-6474495.jpg);
     background-size: fit-content;
     background-position: center;
