@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
 }
+html,
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -11,4 +12,27 @@ header {
     border: 2px solid rgb(0, 0, 0);
     text-align: center;
     background-color: #a6a6ac;
+}
+.nav-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    padding: 16px;
+}
+.nav-item {
+    margin: 0 16px;
+    font-size: 18px;
+    font-weight: medium;
+    color: #090909;
+    background-color: aqua;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 8px 16px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.nav-item:hover {
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.2);
+    transform: translateY(-4px);
 }
