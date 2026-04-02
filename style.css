@@ -10,7 +10,10 @@ body {
 }
 .main-section {
     background-image: url("pexels-joshsorenson-1714208.jpg");
-    background-size: fill;
+    padding: auto;
+    width: auto;
+    height: 100vh;
+    background-size: cover;
     background-position: center;
 }
 header {
