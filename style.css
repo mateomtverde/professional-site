@@ -7,7 +7,9 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('/Users/mateomtverde/Documents/GitHub/course-portfolio/project-02/pexels-joshsorenson-1714208.jpg');
+}
+.main-section {
+    background-image: url(url(../course-portfolio/project-02/pexels-joshsorenson-1714208.jpg));
     background-size: cover;
     background-position: center;
 }
@@ -40,42 +42,6 @@ header {
 .nav-item:hover {
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.2);
     transform: translateY(-4px);
-}
-#slideshow {
-    position: relative;
-    width: 100%;
-    max-width: 800px;
-    margin: auto;
-    overflow: hidden;
-    border: 2px solid rgb(0, 0, 0);
-    border-radius: 8px;
-}
-.slide-1 {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    opacity: 1;
-    transition: opacity 1s ease-in-out;
-}
-.slide-2 {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
-}
-.slide-3 {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
 }
 main {
     width: auto;
