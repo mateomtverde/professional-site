@@ -99,6 +99,7 @@ section ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: auto;
     max-width: 800px;
     min-height: 300px;
     background-color: #ccd0d5;
