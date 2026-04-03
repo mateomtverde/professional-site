@@ -96,7 +96,7 @@ section ul {
 .image-box {
     border: #000000 2px solid;
     border-radius: 80px;
-    justify-content: center;
+    position: relative;;
     max-width: 800px;
     min-height: 300px;
     background-color: #ccd0d5;
