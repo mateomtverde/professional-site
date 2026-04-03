@@ -54,6 +54,23 @@ main>p {
     font-style: italic;
     color: rgb(255, 255, 255);
 }
+main>h1 {
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 1em;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+main>h2 {            
+    font-weight: bold;
+    font-size: 36px;
+    margin-top: 32px;
+    margin-bottom: 24px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
 h1 {
     font-weight: bold;
     font-size: 48px;
