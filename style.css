@@ -102,6 +102,21 @@ li a:hover {
     color: #000000;
     text-decoration: underline;
 }
+a a:link {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+a a:visited {
+    color: rgb(255, 255, 255);
+}
+a a:active {
+    color: rgb(255, 255, 255);
+}
+a a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
 a:link {
     color:rgb(255, 255, 255);
     font-weight: bold;
