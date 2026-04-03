@@ -102,8 +102,9 @@ li {
     transform: skew( -2deg, -2deg);
 }
 footer {
-    text-align: center;
-    padding: 16px;
+    display:flex;
+    justify-content: center;
+    align-items: center;    
     background-color: #ccd0d5;
     border-top: 2px solid #000000;
     margin-top: 32px;
