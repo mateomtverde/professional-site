@@ -109,7 +109,8 @@ footer {
     margin-top: 32px;
 }
 footer p {
-    margin: 8px 0;
+    margin: auto;
+    text-align: center;
     font-size: larger;
     color: #000000;
 }
