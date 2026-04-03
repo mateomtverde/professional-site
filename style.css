@@ -87,6 +87,16 @@ li {
     margin-bottom: 8px;
     color: rgb(255, 255, 255);
 }
+a {
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
 .image-box {
     border: #000000 2px solid;
     border-radius: 80px;
