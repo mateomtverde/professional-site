@@ -131,6 +131,19 @@ p {
     font-style: italic;
     color: rgb(255, 255, 255);
 }
+section {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 2px solid #000000;
+    border-radius: 16px;
+    padding: 16px;
+    margin: 32px auto;
+    max-width: 800px;
+}
+main {
+    width: auto;
+    margin: auto;
+    padding: 16px;
+}
 ul {
     max-width: 800px;
     margin: auto;
