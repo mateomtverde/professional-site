@@ -1,6 +1,6 @@
 # Matthew Green's Professional Site
 
-Hello, this is my professional site. I have developed this site to showcase my skills I learned from recent courses in CMPA. This site includes links to my work, a slideshow on the homepage with images of homepages of some of my sites, and interactive features I also invite anyone to check my site out and offer feedback.
+Hello, this is my professional site. I have developed this site to showcase my skills I learned from recent courses in CMPA. This site includes links to my work, a slider on the homepage with images of homepages of some of my sites, and interactive features. I also invite anyone to check my site out and offer feedback.
 
 ## Purpose
 
