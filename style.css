@@ -72,9 +72,9 @@ section {
 .slider-nav {
   display: flex;
   column-gap: 1rem;
-  position: absolute;
+  position: center;
   bottom: 1.25rem;
-  left: auto;
+  left: 50%;
   transform: translateX(-50%);
 }
 .slider-nav a {
