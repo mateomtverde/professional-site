@@ -195,7 +195,7 @@ a:hover {
     text-decoration: underline;
 }
 .image-box {
-    url (./images/projects-image-1.jpeg);
+    background-image:  url(./images/image-1.jpeg);
     width: 100%;
     height: auto;
     border: #000000 2px solid;
