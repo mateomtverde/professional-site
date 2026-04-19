@@ -81,13 +81,13 @@ section {
   width: 0.5rem;
   height: 0.5rem;
   border-radius: 50%;
-  background-color: #050505;
+  background-color: #000000;
   opacity: 0.75;
 }
 .contact-form-wrapper { max-width: 400px;
  margin: 2rem auto;
  padding: 1.5rem;
- border: 1px solid #ddd;
+ border: 1px solid #000000;
  border-radius: 8px; }
 #contact-form { display: flex;
  flex-direction: column;
@@ -103,7 +103,7 @@ label { font-weight: bold;
 input:focus, textarea:focus { border-color: #000000; outline: none; }
 button { padding: 0.75rem;
  background-color: #333;
- color: white;
+ color: rgb(0, 0, 0);
  border: none; cursor: pointer; }
 
 h1 {
@@ -197,7 +197,7 @@ a:hover {
 .image-box {
     background-image:  url(./images/image-1.jpeg);
     width: 100%;
-    height: auto;
+    height: 100%;
     border: #000000 2px solid;
     border-radius: 80px;
     margin: auto;
