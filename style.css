@@ -198,13 +198,13 @@ a:hover {
     border: #000000 2px solid;
     border-radius: 80px;
     margin: auto;
-    width: 800px;
+    width: 600px;
     height: 300px;
     box-shadow: #000000 5px 5px 15px;
     transition: box-shadow 0.3s ease, transform 0.3s ease;
 }
 .image-box img {
-    width: auto;
+    width: 100%;
     height: 100%;
     border-radius: 80px;
 }
