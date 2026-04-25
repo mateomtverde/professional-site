@@ -52,10 +52,14 @@ section {
     margin: 32px auto;
     max-width: 800px;
 }
-iframe {
+.container {
     display: flex;
     justify-content: center;
+    align-items: center;
     margin: 32px auto;
+    border: #000000 2px solid;
+    border-radius: 16px;
+    padding: 16px;
 }
 .slider-wrapper {
   position: relative;
