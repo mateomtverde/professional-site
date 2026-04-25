@@ -52,7 +52,11 @@ section {
     margin: 32px auto;
     max-width: 800px;
 }
-
+iframe {
+    display: block;
+    border: 2px solid #000000;
+    border-radius: 16px;
+}
 .slider-wrapper {
   position: relative;
   max-width: 800px;
