@@ -56,9 +56,8 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 32px auto;
     border: #000000 8px solid;
-    border-radius: 10px;
+    border-radius: 16px;
     width: fit-content;
     height: fit-content;
 }
