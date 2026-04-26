@@ -58,10 +58,9 @@ section {
     align-items: center;
     margin: 32px auto;
     border: #000000 8px solid;
-    border-radius: 16px;
-    padding: 16px;
-    width: 550px;
-    height: 450px;
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
 }
 .slider-wrapper {
   position: relative;
