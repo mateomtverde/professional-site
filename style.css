@@ -60,8 +60,8 @@ section {
     border: #000000 8px solid;
     border-radius: 16px;
     padding: 16px;
-    width: fit-content;
-    height: fit-content;
+    width: 550px;
+    height: 450px;
 }
 .slider-wrapper {
   position: relative;
