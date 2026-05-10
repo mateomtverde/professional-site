@@ -52,22 +52,19 @@ section {
     margin: 32px auto;
     max-width: 800px;
 }
-.gcse-search {
+.search-container {
     display: flex;
     justify-content: center;
-    align-content: center;
+    align-items: center;
     width: 100%;
     max-width: 400px;
     margin: auto;
-    background-color: #ccc;
-
 }
 .windy-container {
     display:flex;
     justify-content: center;
     align-content: center;
     margin: 32px auto;
-    padding: 16px;
     border: #000000 2px solid;
     width: fit-content;
     height: fit-content;
