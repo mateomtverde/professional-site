@@ -54,6 +54,8 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 32px auto;
+    width: 50%; 
     max-width: 400px;
 }
 .gcse-search {
