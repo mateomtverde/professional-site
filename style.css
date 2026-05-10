@@ -70,7 +70,7 @@ section {
 .windy-container {
     display:flex;
     justify-content: center;
-    align-content: center;
+    align-items: center;
     border: #000000 2px solid;
     margin: 32px auto;
     width: fit-content;
