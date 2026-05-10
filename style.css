@@ -52,7 +52,7 @@ section {
     margin: 32px auto;
     max-width: 800px;
 }
-.gcse-search {
+.google.search.container {
     display: flex;
     justify-content: center;
     align-content: center;
