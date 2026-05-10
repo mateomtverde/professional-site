@@ -79,6 +79,23 @@ section {
   scroll-snap-align: start;
   object-fit: contain;
 }
+.slider-nav {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 16px;
+}
+.slider-nav a {
+  width: 12px;
+  height: 12px;
+  background-color: #ccc;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+.slider-nav a:hover {
+  background-color: #000;
+}
 .contact-form-wrapper { max-width: 400px;
  margin: 2rem auto;
  padding: 1.5rem;
