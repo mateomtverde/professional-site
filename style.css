@@ -50,16 +50,14 @@ section {
     margin: 32px auto;
     width: 800px;
 }
-.gcse-search {
-    display:flex;
-    justify-content: center;
-    align-items: center;
+#___gcse_0 {
     margin: 16px auto;
-    width: 800px;
+    width: 600px;
 }
 
-.gsc-search-box {
-  width: 600px;
+.gsc-control-cse {
+    padding: 0;
+    width: auto;
 }
 
 .windy-container {
