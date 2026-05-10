@@ -52,13 +52,13 @@ section {
 }
 #___gcse_0 {
     margin: 16px auto;
-    width: 400px;
+    width: 100%;
     border: 2px solid #000000;
 }
 
 .gsc-control-cse {
     padding: 0;
-    width: auto;
+    width: 80vw;
 }
 
 .windy-container {
@@ -67,7 +67,7 @@ section {
     align-items: center;
     border: #000000 2px solid;
     margin: 32px auto;
-    width: 80vw;
+    width: 100%;
     height: fit-content;
     
 }
@@ -86,7 +86,7 @@ section {
 }
 .slider img {
   flex: 1 0 100%;
-  width: 80vw;
+  width: 100%;
   scroll-snap-align: start;
   object-fit: contain;
 }
