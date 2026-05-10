@@ -52,19 +52,14 @@ section {
     margin: 32px auto;
     max-width: 800px;
 }
-.google.search.container {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    width: 450px;
-    margin: 16px auto;
-}
 .gcse-search {
     display: flex;
     justify-content: center;
     align-content: center;
     width: 100%;
     max-width: 450px;
+    margin: auto;
+    background-color: #ccc;
 
 }
 .windy-container {
