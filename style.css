@@ -52,7 +52,7 @@ section {
     margin: 32px auto;
     max-width: 800px;
 }
-.google-search-container {
+.gcse-search {
     display: flex;
     justify-content: center;
     align-content: center;
@@ -68,8 +68,8 @@ section {
     align-items: center;
     margin: 32px auto;
     border: #000000 2px solid;
-    width: 450px;
-    height: 550px;
+    width: fit-content;
+    height: fit-content;
 }
 .slider-wrapper {
   position: relative;
