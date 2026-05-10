@@ -53,6 +53,7 @@ section {
 #___gcse_0 {
     margin: 16px auto;
     width: 600px;
+    border: 2px solid #000000;
 }
 
 .gsc-control-cse {
