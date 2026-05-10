@@ -50,7 +50,7 @@ section {
     margin: 32px auto;
     max-width: 800px;
 }
-.search-container {
+.google-search-container {
     display: flex;
     justify-content: center;
     align-items: center;
