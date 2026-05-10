@@ -52,6 +52,10 @@ section {
     margin: 32px auto;
     max-width: 800px;
 }
+.gsearch-box {
+    margin: 16px auto;
+    max-width: 400px;
+}
 .container {
     display: flex;
     justify-content: center;
