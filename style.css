@@ -232,6 +232,12 @@ footer {
     border-top: 2px solid #000000;
     margin-top: 32px;
 }
+footer h3 {
+    margin: auto;
+    text-align: center;
+    font-size: larger;
+    color: #000000;
+}
 footer p {
     margin: auto;
     text-align: center;
