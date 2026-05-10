@@ -48,7 +48,7 @@ section {
     border: 2px solid #000000;
     padding: 16px;
     margin: 32px auto;
-    width: 800px;
+    width: 80vw;
 }
 #___gcse_0 {
     margin: 16px auto;
@@ -80,6 +80,7 @@ section {
 .slider {
   display: flex;
   overflow-x: auto;
+  width: 80vw;
   scroll-snap-type: x mandatory;
   scroll-behavior: smooth;
 }
