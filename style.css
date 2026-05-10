@@ -85,6 +85,7 @@ section {
 }
 .slider img {
   flex: 1 0 100%;
+  width: 80vw;
   scroll-snap-align: start;
   object-fit: contain;
 }
