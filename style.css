@@ -67,12 +67,13 @@ section {
     align-items: center;
     border: #000000 2px solid;
     margin: 32px auto;
-    width: fit-content;
+    width: 80vw;
     height: fit-content;
+    
 }
 .slider-wrapper {
   position: relative;
-  max-width: 800px;
+  max-width: 80vw;
   max-height: 600px;
   margin: 0 auto;
 }
