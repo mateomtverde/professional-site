@@ -56,11 +56,16 @@ section {
     display: flex;
     justify-content: center;
     align-content: center;
-    width: 100%;
+    width: 450px;
+    margin: 16px auto;
 }
 .gcse-search {
+    display: flex;
+    justify-content: center;
+    align-content: center;
     width: 100%;
-    max-width: 600px;
+    max-width: 450px;
+
 }
 .windy-container {
     display: flex;
