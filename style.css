@@ -51,6 +51,9 @@ section {
     width: 800px;
 }
 .gcse-search {
+    display:flex;
+    justify-content: center;
+    align-items: center;
     margin: 16px auto;
     width: 800px;
 }
