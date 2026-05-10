@@ -58,14 +58,7 @@ section {
     align-content: center;
     width: 100%;
 }
-.gsearch-box {
-    align-content: center;
-    background-color: #ccc;
-    border: 2px solid #000000;
-    border-radius: 16px;
-    padding: 16px;
-}
-.container {
+.windy-container {
     display: flex;
     justify-content: center;
     align-items: center;
