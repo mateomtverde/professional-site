@@ -56,17 +56,16 @@ section {
     display: flex;
     justify-content: center;
     align-content: center;
-    width: 450px;
-    margin: 32px auto;
-    border-radius: 16px;
-    border: 2px solid #000000;
-    background-color: #ccc;
+    width: 100%;
+}
+.gcse-search {
+    width: 100%;
+    max-width: 600px;
 }
 .windy-container {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 32px auto;
     border: #000000 2px solid;
     width: fit-content;
     height: fit-content;
