@@ -65,9 +65,8 @@ section {
     display:flex;
     justify-content: center;
     align-items: center;
-    border: #000000 2px solid;
     margin: 32px auto;
-    width: 100%;
+    width: fit-content;
     height: fit-content;
     
 }
