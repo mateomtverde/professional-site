@@ -71,6 +71,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 16px auto;
     border: #000000 2px solid;
     width: fit-content;
     height: fit-content;
