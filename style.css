@@ -68,6 +68,9 @@ section {
 
 }
 .windy-container {
+    display:flex;
+    justify-content: center;
+    align-content: center;
     margin:auto;
     border: #000000 2px solid;
     width: fit-content;
