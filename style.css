@@ -31,7 +31,6 @@ header {
     background-color: aqua;
     border: 2px solid black;
     box-sizing: border-box;
-    border-radius: 8px;
     padding: 8px 16px;
     transition: box-shadow 0.3s ease, transform 0.3s ease;
 }
@@ -47,7 +46,6 @@ main {
 section {
     background-color: rgba(255, 255, 255, 0.95);
     border: 2px solid #000000;
-    border-radius: 16px;
     padding: 16px;
     margin: 32px auto;
     max-width: 800px;
@@ -56,9 +54,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
     max-width: 400px;
-    margin: auto;
 }
 .gcse-search {
     display: flex;
