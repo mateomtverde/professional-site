@@ -39,7 +39,7 @@ header {
     transform: translateY(-4px);
 }
 main {
-    width: auto;
+    width: 80vw;
     margin: auto;
     padding: 16px;
 }
@@ -52,7 +52,7 @@ section {
 }
 #___gcse_0 {
     margin: 16px auto;
-    width: 600px;
+    width: 400px;
     border: 2px solid #000000;
 }
 
@@ -289,7 +289,17 @@ footer a:hover {
         flex-basis: 45%;
     }
 }
+@media (min-width>=768px) {
+    .list-items li {
+        flex-basis: 30%;
+    }
+}
 @media (min-width>=1024px) {
+    .list-items li {
+        flex-basis: 30%;
+    }
+}
+@media (min-width>=1280px) {
     .list-items li {
         flex-basis: 30%;
     }
